@@ -1,0 +1,678 @@
+輸入檔案,偵測結果,,
+Alat000.jpg,NA,Alat,#VALUE!
+Alat001.jpg,NA,Alat,#VALUE!
+Alat002.jpg,NA,Alat,#VALUE!
+Alat003.jpg,NA,Alat,#VALUE!
+Alat004.jpg,NA,Alat,#VALUE!
+Alat005.jpg,NA,Alat,#VALUE!
+Alat006.jpg,NA,Alat,#VALUE!
+Alat007.jpg,NA,Alat,#VALUE!
+Alat008.jpg,NA,Alat,#VALUE!
+Alat009.jpg,NA,Alat,#VALUE!
+Alat010.jpg,NA,Alat,#VALUE!
+Alat011.jpg,NA,Alat,#VALUE!
+Alat012.jpg,NA,Alat,#VALUE!
+Alat013.jpg,NA,Alat,#VALUE!
+Alat014.jpg,NA,Alat,#VALUE!
+Alat015.jpg,NA,Alat,#VALUE!
+Alat016.jpg,NA,Alat,#VALUE!
+Alat017.jpg,NA,Alat,#VALUE!
+Alat018.jpg,NA,Alat,#VALUE!
+Alat019.jpg,NA,Alat,#VALUE!
+Alat020.jpg,NA,Alat,#VALUE!
+Alat021.jpg,NA,Alat,#VALUE!
+Alat022.jpg,Alat: 0.5957,Alat,1
+Alat023.jpg,Alat: 0.5652,Alat,1
+Alat024.jpg,NA,Alat,#VALUE!
+Alat025.jpg,NA,Alat,#VALUE!
+Alat026.jpg,NA,Alat,#VALUE!
+Alat027.jpg,NA,Alat,#VALUE!
+Alat028.jpg,NA,Alat,#VALUE!
+Alat029.jpg,Alat: 0.7818,Alat,1
+Alat030.jpg,Alat: 0.6521,Alat,1
+Alat031.jpg,Alat: 0.6807,Alat,1
+Alat032.jpg,Alat: 0.8291,Alat,1
+Alat033.jpg,NA,Alat,#VALUE!
+Alat034.jpg,NA,Alat,#VALUE!
+Alat035.jpg,NA,Alat,#VALUE!
+Alat036.jpg,NA,Alat,#VALUE!
+Alat037.jpg,NA,Alat,#VALUE!
+Alat038.jpg,NA,Alat,#VALUE!
+Alat039.jpg,NA,Alat,#VALUE!
+Alat040.jpg,NA,Alat,#VALUE!
+Alat041.jpg,NA,Alat,#VALUE!
+Alat042.jpg,Alat: 0.5701,Alat,1
+Alat043.jpg,NA,Alat,#VALUE!
+Alat044.jpg,Alat: 0.8252,Alat,1
+Ceproin000.jpg,Propranolol: 0.6782,Cerproin,#VALUE!
+Ceproin001.jpg,NA,Ceproin,#VALUE!
+Ceproin002.jpg,Cerproin: 0.6670,Cerproin,1
+Ceproin003.jpg,Cerproin: 0.9226,Cerproin,1
+Ceproin004.jpg,Cerproin: 0.6965,Cerproin,1
+Ceproin005.jpg,Cerproin: 0.9707,Cerproin,1
+Ceproin006.jpg,Cerproin: 0.8371,Cerproin,1
+Ceproin007.jpg,Cerproin: 0.6982,Cerproin,1
+Ceproin008.jpg,Cerproin: 0.6725,Cerproin,1
+Ceproin009.jpg,Cerproin: 0.9344,Cerproin,1
+Ceproin010.jpg,NA,Ceproin,#VALUE!
+Ceproin011.jpg,Cerproin: 0.9337,Cerproin,1
+Ceproin012.jpg,Cerproin: 0.6044,Cerproin,1
+Ceproin013.jpg,NA,Ceproin,#VALUE!
+Ceproin014.jpg,Cerproin: 0.9695,Cerproin,1
+Ceproin015.jpg,Cerproin: 0.9562,Cerproin,1
+Ceproin016.jpg,Propranolol: 0.5155,Cerproin,#VALUE!
+Ceproin017.jpg,Cerproin: 0.6028,Cerproin,1
+Ceproin018.jpg,NA,Ceproin,#VALUE!
+Ceproin019.jpg,NA,Ceproin,#VALUE!
+Ceproin020.jpg,NA,Ceproin,#VALUE!
+Ceproin021.jpg,Propranolol: 0.6908,Cerproin,#VALUE!
+Ceproin022.jpg,NA,Ceproin,#VALUE!
+Ceproin023.jpg,Cerproin: 0.6296,Cerproin,1
+Ceproin024.jpg,Cerproin: 0.8890,Cerproin,1
+Ceproin025.jpg,Cerproin: 0.7083,Cerproin,1
+Ceproin026.jpg,Cerproin: 0.8128,Cerproin,1
+Ceproin027.jpg,Cerproin: 0.9243,Cerproin,1
+Ceproin028.jpg,NA,Ceproin,#VALUE!
+Ceproin029.jpg,NA,Ceproin,#VALUE!
+Ceproin030.jpg,NA,Ceproin,#VALUE!
+Ceproin031.jpg,Cerproin: 0.7158,Cerproin,1
+Ceproin032.jpg,Propranolol: 0.7886,Cerproin,#VALUE!
+Ceproin033.jpg,Cerproin: 0.9449,Cerproin,1
+Ceproin034.jpg,Cerproin: 0.9482,Cerproin,1
+Ceproin035.jpg,Cerproin: 0.9657,Cerproin,1
+Ceproin036.jpg,Cerproin: 0.9665,Cerproin,1
+Ceproin037.jpg,Cerproin: 0.5710,Cerproin,1
+Ceproin038.jpg,Cerproin: 0.6492,Cerproin,1
+Ceproin039.jpg,Cerproin: 0.8919,Cerproin,1
+Ceproin040.jpg,Cerproin: 0.8237,Cerproin,1
+Ceproin041.jpg,Cerproin: 0.8620,Cerproin,1
+Ceproin042.jpg,NA,Ceproin,#VALUE!
+Ceproin043.jpg,Propranolol: 0.7379,Cerproin,#VALUE!
+Ceproin044.jpg,Cerproin: 0.7693,Cerproin,1
+Ceproin045.jpg,Cerproin: 0.6898,Cerproin,1
+Ceproin046.jpg,Cerproin: 0.5674,Cerproin,1
+Ceproin047.jpg,NA,Ceproin,#VALUE!
+Ceproin048.jpg,Cerproin: 0.9016,Cerproin,1
+Ceproin049.jpg,Cerproin: 0.7500,Cerproin,1
+Ceproin050.jpg,Cerproin: 0.9547,Cerproin,1
+Ceproin051.jpg,Cerproin: 0.9845,Cerproin,1
+Ceproin052.jpg,Cerproin: 0.9159,Cerproin,1
+Ceproin053.jpg,Cerproin: 0.9344,Cerproin,1
+Ceproin054.jpg,Cerproin: 0.5526,Cerproin,1
+Ceproin055.jpg,NA,Ceproin,#VALUE!
+Ceproin056.jpg,NA,Ceproin,#VALUE!
+Ceproin057.jpg,NA,Ceproin,#VALUE!
+Ceproin058.jpg,NA,Ceproin,#VALUE!
+Ceproin059.jpg,Cerproin: 0.8041,Cerproin,1
+Ceproin060.jpg,Cerproin: 0.8903,Cerproin,1
+Ceproin061.jpg,Cerproin: 0.9527,Cerproin,1
+Ceproin062.jpg,Cerproin: 0.9407,Cerproin,1
+Ceproin063.jpg,Cerproin: 0.5251,Cerproin,1
+Ceproin064.jpg,Cerproin: 0.5712,Cerproin,1
+Ceproin065.jpg,NA,Ceproin,#VALUE!
+Ceproin066.jpg,Cerproin: 0.6770,Cerproin,1
+Ceproin067.jpg,Cerproin: 0.6183,Cerproin,1
+Ceproin068.jpg,NA,Ceproin,#VALUE!
+Ceproin069.jpg,NA,Ceproin,#VALUE!
+Ceproin070.jpg,Cerproin: 0.8032,Cerproin,1
+Ceproin071.jpg,Cerproin: 0.5266,Cerproin,1
+Ceproin072.jpg,Cerproin: 0.9773,Cerproin,1
+Ceproin073.jpg,Cerproin: 0.9492,Cerproin,1
+Ceproin074.jpg,Cerproin: 0.9719,Cerproin,1
+Ceproin075.jpg,Cerproin: 0.9679,Cerproin,1
+Ceproin076.jpg,NA,Ceproin,#VALUE!
+Ceproin077.jpg,Cerproin: 0.9739,Cerproin,1
+Ceproin078.jpg,Cerproin: 0.9479,Cerproin,1
+Ceproin079.jpg,Cerproin: 0.9769,Cerproin,1
+Ceproin080.jpg,Cerproin: 0.9573,Cerproin,1
+Ceproin081.jpg,Cerproin: 0.5357,Cerproin,1
+Ceproin082.jpg,NA,Ceproin,#VALUE!
+Ceproin083.jpg,NA,Ceproin,#VALUE!
+Ceproin084.jpg,NA,Ceproin,#VALUE!
+Ceproin085.jpg,Cerproin: 0.6540,Cerproin,1
+Ceproin086.jpg,NA,Ceproin,#VALUE!
+Ceproin087.jpg,NA,Ceproin,#VALUE!
+Ceproin088.jpg,Cerproin: 0.9500,Cerproin,1
+Ceproin089.jpg,Cerproin: 0.6141,Cerproin,1
+Ceproin090.jpg,Cerproin: 0.5900,Cerproin,1
+Ceproin091.jpg,Cerproin: 0.6106,Cerproin,1
+Ceproin092.jpg,Cerproin: 0.6553,Cerproin,1
+Ceproin093.jpg,NA,Ceproin,#VALUE!
+Ceproin094.jpg,Propranolol: 0.5526,Cerproin,#VALUE!
+Ceproin095.jpg,Propranolol: 0.5333,Cerproin,#VALUE!
+Ceproin096.jpg,Cerproin: 0.8050,Cerproin,1
+Ceproin097.jpg,NA,Ceproin,#VALUE!
+Ceproin098.jpg,Cerproin: 0.5465,Cerproin,1
+Ceproin099.jpg,Cerproin: 0.6296,Cerproin,1
+Norvasc000.jpg,Norvasc: 0.8642,Norvasc,1
+Norvasc001.jpg,NA,Norvasc,#VALUE!
+Norvasc002.jpg,Norvasc: 0.6087,Norvasc,1
+Norvasc003.jpg,NA,Norvasc,#VALUE!
+Norvasc004.jpg,Norvasc: 0.5499,Norvasc,1
+Norvasc005.jpg,Norvasc: 0.8458,Norvasc,1
+Norvasc006.jpg,Norvasc: 0.6231,Norvasc,1
+Norvasc007.jpg,Norvasc: 0.5699,Norvasc,1
+Norvasc008.jpg,Norvasc: 0.5163,Norvasc,1
+Norvasc009.jpg,Norvasc: 0.7894,Norvasc,1
+Norvasc010.jpg,Norvasc: 0.7016,Norvasc,1
+Norvasc011.jpg,Norvasc: 0.5603,Norvasc,1
+Norvasc012.jpg,Norvasc: 0.9386,Norvasc,1
+Norvasc013.jpg,Norvasc: 0.9507,Norvasc,1
+Norvasc014.jpg,Norvasc: 0.9210,Norvasc,1
+Norvasc015.jpg,Norvasc: 0.9211,Norvasc,1
+Norvasc016.jpg,Norvasc: 0.7944,Norvasc,1
+Norvasc017.jpg,Norvasc: 0.7223,Norvasc,1
+Norvasc018.jpg,Norvasc: 0.8816,Norvasc,1
+Norvasc019.jpg,Norvasc: 0.6885,Norvasc,1
+Norvasc020.jpg,Norvasc: 0.9371,Norvasc,1
+Norvasc021.jpg,Norvasc: 0.5677,Norvasc,1
+Norvasc022.jpg,Norvasc: 0.5010,Norvasc,1
+Norvasc023.jpg,Norvasc: 0.5844,Norvasc,1
+Norvasc024.jpg,NA,Norvasc,#VALUE!
+Norvasc025.jpg,NA,Norvasc,#VALUE!
+Norvasc026.jpg,Norvasc: 0.8553,Norvasc,1
+Norvasc027.jpg,NA,Norvasc,#VALUE!
+Norvasc028.jpg,NA,Norvasc,#VALUE!
+Norvasc029.jpg,NA,Norvasc,#VALUE!
+Norvasc030.jpg,NA,Norvasc,#VALUE!
+Norvasc031.jpg,Norvasc: 0.5592,Norvasc,1
+Norvasc032.jpg,Norvasc: 0.9289,Norvasc,1
+Norvasc033.jpg,Norvasc: 0.7899,Norvasc,1
+Norvasc034.jpg,Norvasc: 0.7603,Norvasc,1
+Norvasc035.jpg,Norvasc: 0.7532,Norvasc,1
+Norvasc036.jpg,Norvasc: 0.8419,Norvasc,1
+Norvasc037.jpg,Norvasc: 0.6405,Norvasc,1
+Norvasc038.jpg,Norvasc: 0.6259,Norvasc,1
+Norvasc039.jpg,Norvasc: 0.8980,Norvasc,1
+Norvasc040.jpg,Norvasc: 0.6259,Norvasc,1
+Norvasc041.jpg,Norvasc: 0.5678,Norvasc,1
+Norvasc042.jpg,Norvasc: 0.5060,Norvasc,1
+Norvasc043.jpg,Norvasc: 0.8742,Norvasc,1
+Norvasc044.jpg,Norvasc: 0.8483,Norvasc,1
+Norvasc045.jpg,Norvasc: 0.6103,Norvasc,1
+Norvasc046.jpg,Norvasc: 0.6211,Norvasc,1
+Norvasc047.jpg,Norvasc: 0.5554,Norvasc,1
+Norvasc048.jpg,NA,Norvasc,#VALUE!
+Norvasc049.jpg,Norvasc: 0.5953,Norvasc,1
+Norvasc050.jpg,Norvasc: 0.7451,Norvasc,1
+Norvasc051.jpg,Norvasc: 0.5431,Norvasc,1
+Norvasc052.jpg,Norvasc: 0.7620,Norvasc,1
+Norvasc053.jpg,Norvasc: 0.7743,Norvasc,1
+Norvasc054.jpg,Norvasc: 0.5155,Norvasc,1
+Norvasc055.jpg,Norvasc: 0.5577,Norvasc,1
+Norvasc056.jpg,Norvasc: 0.9434,Norvasc,1
+Norvasc057.jpg,Norvasc: 0.8087,Norvasc,1
+Norvasc058.jpg,Norvasc: 0.6838,Norvasc,1
+Norvasc059.jpg,Norvasc: 0.8296,Norvasc,1
+Norvasc060.jpg,Norvasc: 0.6839,Norvasc,1
+Norvasc061.jpg,Norvasc: 0.6683,Norvasc,1
+Norvasc062.jpg,Norvasc: 0.5589,Norvasc,1
+Norvasc063.jpg,Norvasc: 0.8531,Norvasc,1
+Norvasc064.jpg,Norvasc: 0.9320,Norvasc,1
+Norvasc065.jpg,NA,Norvasc,#VALUE!
+Norvasc066.jpg,Norvasc: 0.9152,Norvasc,1
+Norvasc067.jpg,Norvasc: 0.9320,Norvasc,1
+Norvasc068.jpg,Norvasc: 0.7956,Norvasc,1
+Norvasc069.jpg,Norvasc: 0.8444,Norvasc,1
+Norvasc070.jpg,Norvasc: 0.9474,Norvasc,1
+Norvasc071.jpg,Norvasc: 0.9495,Norvasc,1
+Norvasc072.jpg,Norvasc: 0.7935,Norvasc,1
+Norvasc073.jpg,Norvasc: 0.9306,Norvasc,1
+Norvasc074.jpg,Norvasc: 0.9088,Norvasc,1
+Norvasc075.jpg,Norvasc: 0.9265,Norvasc,1
+Norvasc076.jpg,Norvasc: 0.5448,Norvasc,1
+Norvasc077.jpg,Norvasc: 0.9128,Norvasc,1
+Norvasc078.jpg,Norvasc: 0.9210,Norvasc,1
+Norvasc079.jpg,Norvasc: 0.9592,Norvasc,1
+Norvasc080.jpg,Norvasc: 0.9210,Norvasc,1
+Norvasc081.jpg,Norvasc: 0.6779,Norvasc,1
+Norvasc082.jpg,Norvasc: 0.6042,Norvasc,1
+Norvasc083.jpg,Norvasc: 0.8156,Norvasc,1
+Norvasc084.jpg,Norvasc: 0.7983,Norvasc,1
+Norvasc085.jpg,Norvasc: 0.7157,Norvasc,1
+Norvasc086.jpg,Norvasc: 0.7400,Norvasc,1
+Norvasc087.jpg,Norvasc: 0.5348,Norvasc,1
+Norvasc088.jpg,Norvasc: 0.6334,Norvasc,1
+Norvasc089.jpg,Norvasc: 0.6906,Norvasc,1
+Norvasc090.jpg,Norvasc: 0.8312,Norvasc,1
+Norvasc091.jpg,Norvasc: 0.8230,Norvasc,1
+Norvasc092.jpg,Norvasc: 0.9577,Norvasc,1
+Norvasc093.jpg,Norvasc: 0.8867,Norvasc,1
+Norvasc094.jpg,Norvasc: 0.7306,Norvasc,1
+Norvasc095.jpg,Norvasc: 0.7485,Norvasc,1
+Norvasc096.jpg,Norvasc: 0.8427,Norvasc,1
+Norvasc097.jpg,Norvasc: 0.6745,Norvasc,1
+Norvasc098.jpg,NA,Norvasc,#VALUE!
+Norvasc099.jpg,Norvasc: 0.5844,Norvasc,1
+Propranolol000.jpg,Propranolol: 0.7748,Propranolol,1
+Propranolol001.jpg,Propranolol: 0.7775,Propranolol,1
+Propranolol002.jpg,Propranolol: 0.7234,Propranolol,1
+Propranolol003.jpg,Propranolol: 0.8239,Propranolol,1
+Propranolol004.jpg,Propranolol: 0.7043,Propranolol,1
+Propranolol005.jpg,Propranolol: 0.8749,Propranolol,1
+Propranolol006.jpg,Propranolol: 0.8357,Propranolol,1
+Propranolol007.jpg,Propranolol: 0.5231,Propranolol,1
+Propranolol008.jpg,Propranolol: 0.6092,Propranolol,1
+Propranolol009.jpg,NA,Propranolol,#VALUE!
+Propranolol010.jpg,NA,Propranolol,#VALUE!
+Propranolol011.jpg,NA,Propranolol,#VALUE!
+Propranolol012.jpg,Propranolol: 0.5421,Propranolol,1
+Propranolol013.jpg,NA,Propranolol,#VALUE!
+Propranolol014.jpg,NA,Propranolol,#VALUE!
+Propranolol015.jpg,NA,Propranolol,#VALUE!
+Propranolol016.jpg,Propranolol: 0.7373,Propranolol,1
+Propranolol017.jpg,Propranolol: 0.7738,Propranolol,1
+Propranolol018.jpg,Propranolol: 0.5470,Propranolol,1
+Propranolol019.jpg,Propranolol: 0.7010,Propranolol,1
+Propranolol020.jpg,Propranolol: 0.6794,Propranolol,1
+Propranolol021.jpg,Propranolol: 0.7810,Propranolol,1
+Propranolol022.jpg,Propranolol: 0.6146,Propranolol,1
+Propranolol023.jpg,Propranolol: 0.6289,Propranolol,1
+Propranolol024.jpg,Propranolol: 0.5861,Propranolol,1
+Propranolol025.jpg,NA,Propranolol,#VALUE!
+Propranolol026.jpg,NA,Propranolol,#VALUE!
+Propranolol027.jpg,Propranolol: 0.5252,Propranolol,1
+Propranolol028.jpg,NA,Propranolol,#VALUE!
+Propranolol029.jpg,NA,Propranolol,#VALUE!
+Propranolol030.jpg,NA,Propranolol,#VALUE!
+Propranolol031.jpg,NA,Propranolol,#VALUE!
+Propranolol032.jpg,NA,Propranolol,#VALUE!
+Propranolol033.jpg,NA,Propranolol,#VALUE!
+Propranolol034.jpg,NA,Propranolol,#VALUE!
+Propranolol035.jpg,Propranolol: 0.6156,Propranolol,1
+Propranolol036.jpg,NA,Propranolol,#VALUE!
+Propranolol037.jpg,NA,Propranolol,#VALUE!
+Propranolol038.jpg,Propranolol: 0.7371,Propranolol,1
+Propranolol039.jpg,Propranolol: 0.5555,Propranolol,1
+Propranolol040.jpg,NA,Propranolol,#VALUE!
+Propranolol041.jpg,Propranolol: 0.7554,Propranolol,1
+Propranolol042.jpg,NA,Propranolol,#VALUE!
+Propranolol043.jpg,NA,Propranolol,#VALUE!
+Propranolol044.jpg,NA,Propranolol,#VALUE!
+Propranolol045.jpg,NA,Propranolol,#VALUE!
+Propranolol046.jpg,Propranolol: 0.7425,Propranolol,1
+Propranolol047.jpg,NA,Propranolol,#VALUE!
+Propranolol048.jpg,NA,Propranolol,#VALUE!
+Propranolol049.jpg,NA,Propranolol,#VALUE!
+Propranolol050.jpg,NA,Propranolol,#VALUE!
+Propranolol051.jpg,NA,Propranolol,#VALUE!
+Propranolol052.jpg,NA,Propranolol,#VALUE!
+Propranolol053.jpg,NA,Propranolol,#VALUE!
+Propranolol054.jpg,Propranolol: 0.5534,Propranolol,1
+Propranolol055.jpg,NA,Propranolol,#VALUE!
+Propranolol056.jpg,NA,Propranolol,#VALUE!
+Propranolol057.jpg,Propranolol: 0.6117,Propranolol,1
+Propranolol058.jpg,NA,Propranolol,#VALUE!
+Propranolol059.jpg,NA,Propranolol,#VALUE!
+Propranolol060.jpg,NA,Propranolol,#VALUE!
+Propranolol061.jpg,NA,Propranolol,#VALUE!
+Propranolol062.jpg,NA,Propranolol,#VALUE!
+Propranolol063.jpg,NA,Propranolol,#VALUE!
+Propranolol064.jpg,NA,Propranolol,#VALUE!
+Propranolol065.jpg,NA,Propranolol,#VALUE!
+Propranolol066.jpg,NA,Propranolol,#VALUE!
+Propranolol067.jpg,NA,Propranolol,#VALUE!
+Propranolol068.jpg,Propranolol: 0.7529,Propranolol,1
+Propranolol069.jpg,NA,Propranolol,#VALUE!
+Propranolol070.jpg,NA,Propranolol,#VALUE!
+Propranolol071.jpg,Propranolol: 0.5868,Propranolol,1
+Propranolol072.jpg,NA,Propranolol,#VALUE!
+Propranolol073.jpg,NA,Propranolol,#VALUE!
+Propranolol074.jpg,NA,Propranolol,#VALUE!
+Propranolol075.jpg,NA,Propranolol,#VALUE!
+Propranolol076.jpg,NA,Propranolol,#VALUE!
+Propranolol077.jpg,Propranolol: 0.7021,Propranolol,1
+Propranolol078.jpg,Propranolol: 0.7792,Propranolol,1
+Propranolol079.jpg,Propranolol: 0.6212,Propranolol,1
+Propranolol080.jpg,Propranolol: 0.7881,Propranolol,1
+Propranolol081.jpg,Propranolol: 0.7617,Propranolol,1
+Propranolol082.jpg,NA,Propranolol,#VALUE!
+Propranolol083.jpg,NA,Propranolol,#VALUE!
+Propranolol084.jpg,NA,Propranolol,#VALUE!
+Propranolol085.jpg,NA,Propranolol,#VALUE!
+Propranolol086.jpg,Propranolol: 0.5950,Propranolol,1
+Propranolol087.jpg,Propranolol: 0.5645,Propranolol,1
+Propranolol088.jpg,Propranolol: 0.7189,Propranolol,1
+Propranolol089.jpg,Propranolol: 0.5645,Propranolol,1
+Propranolol090.jpg,Propranolol: 0.6405,Propranolol,1
+Propranolol091.jpg,NA,Propranolol,#VALUE!
+Propranolol092.jpg,NA,Propranolol,#VALUE!
+Propranolol093.jpg,NA,Propranolol,#VALUE!
+Propranolol094.jpg,NA,Propranolol,#VALUE!
+Propranolol095.jpg,NA,Propranolol,#VALUE!
+Propranolol096.jpg,NA,Propranolol,#VALUE!
+Propranolol097.jpg,Propranolol: 0.6688,Propranolol,1
+Propranolol098.jpg,NA,Propranolol,#VALUE!
+Propranolol099.jpg,NA,Propranolol,#VALUE!
+Propranolol100.jpg,NA,Propranolol,#VALUE!
+Propranolol101.jpg,Propranolol: 0.6773,Propranolol,1
+Propranolol102.jpg,Propranolol: 0.7453,Propranolol,1
+Propranolol103.jpg,NA,Propranolol,#VALUE!
+Propranolol104.jpg,Propranolol: 0.5197,Propranolol,1
+Propranolol105.jpg,Propranolol: 0.8471,Propranolol,1
+Propranolol106.jpg,Propranolol: 0.7085,Propranolol,1
+Propranolol107.jpg,Propranolol: 0.7878,Propranolol,1
+Propranolol108.jpg,Propranolol: 0.8739,Propranolol,1
+Propranolol109.jpg,Propranolol: 0.9149,Propranolol,1
+Propranolol110.jpg,Propranolol: 0.7767,Propranolol,1
+Propranolol111.jpg,Propranolol: 0.8982,Propranolol,1
+Propranolol112.jpg,NA,Propranolol,#VALUE!
+Propranolol113.jpg,NA,Propranolol,#VALUE!
+Propranolol114.jpg,Propranolol: 0.8761,Propranolol,1
+Propranolol115.jpg,Propranolol: 0.9265,Propranolol,1
+Propranolol116.jpg,Propranolol: 0.9004,Propranolol,1
+Propranolol117.jpg,Propranolol: 0.9005,Propranolol,1
+Propranolol118.jpg,Propranolol: 0.9181,Propranolol,1
+Propranolol119.jpg,Propranolol: 0.9064,Propranolol,1
+Propranolol120.jpg,Propranolol: 0.9294,Propranolol,1
+Propranolol121.jpg,Propranolol: 0.9220,Propranolol,1
+Propranolol122.jpg,Propranolol: 0.7458,Propranolol,1
+Propranolol123.jpg,Propranolol: 0.6105,Propranolol,1
+Propranolol124.jpg,Propranolol: 0.6688,Propranolol,1
+Propranolol125.jpg,Propranolol: 0.9299,Propranolol,1
+Propranolol126.jpg,Propranolol: 0.7987,Propranolol,1
+Propranolol127.jpg,Propranolol: 0.5678,Propranolol,1
+Propranolol128.jpg,NA,Propranolol,#VALUE!
+Propranolol129.jpg,NA,Propranolol,#VALUE!
+Propranolol130.jpg,Propranolol: 0.5083,Propranolol,1
+Propranolol131.jpg,Propranolol: 0.7988,Propranolol,1
+Propranolol132.jpg,Propranolol: 0.6415,Propranolol,1
+Propranolol133.jpg,Propranolol: 0.5895,Propranolol,1
+Propranolol134.jpg,Propranolol: 0.7122,Propranolol,1
+Propranolol135.jpg,NA,Propranolol,#VALUE!
+Propranolol136.jpg,Propranolol: 0.5903,Propranolol,1
+Propranolol137.jpg,NA,Propranolol,#VALUE!
+Propranolol138.jpg,NA,Propranolol,#VALUE!
+Propranolol139.jpg,NA,Propranolol,#VALUE!
+Propranolol140.jpg,NA,Propranolol,#VALUE!
+Propranolol141.jpg,NA,Propranolol,#VALUE!
+Propranolol142.jpg,NA,Propranolol,#VALUE!
+Propranolol143.jpg,NA,Propranolol,#VALUE!
+Propranolol144.jpg,NA,Propranolol,#VALUE!
+Propranolol145.jpg,NA,Propranolol,#VALUE!
+Propranolol146.jpg,Propranolol: 0.5733,Propranolol,1
+Propranolol147.jpg,NA,Propranolol,#VALUE!
+Propranolol148.jpg,NA,Propranolol,#VALUE!
+Propranolol149.jpg,NA,Propranolol,#VALUE!
+Propranolol150.jpg,NA,Propranolol,#VALUE!
+Propranolol151.jpg,NA,Propranolol,#VALUE!
+Propranolol152.jpg,NA,Propranolol,#VALUE!
+Propranolol153.jpg,Propranolol: 0.5525,Propranolol,1
+Propranolol154.jpg,NA,Propranolol,#VALUE!
+Propranolol155.jpg,Propranolol: 0.7198,Propranolol,1
+Propranolol156.jpg,Propranolol: 0.7497,Propranolol,1
+Propranolol157.jpg,Propranolol: 0.6514,Propranolol,1
+Propranolol158.jpg,NA,Propranolol,#VALUE!
+Propranolol159.jpg,NA,Propranolol,#VALUE!
+Propranolol160.jpg,NA,Propranolol,#VALUE!
+Propranolol161.jpg,NA,Propranolol,#VALUE!
+Propranolol162.jpg,NA,Propranolol,#VALUE!
+Propranolol163.jpg,NA,Propranolol,#VALUE!
+Propranolol164.jpg,NA,Propranolol,#VALUE!
+Propranolol165.jpg,NA,Propranolol,#VALUE!
+Propranolol166.jpg,NA,Propranolol,#VALUE!
+Propranolol167.jpg,NA,Propranolol,#VALUE!
+Propranolol168.jpg,NA,Propranolol,#VALUE!
+Propranolol169.jpg,NA,Propranolol,#VALUE!
+Propranolol170.jpg,NA,Propranolol,#VALUE!
+Propranolol171.jpg,Propranolol: 0.8297,Propranolol,1
+Propranolol172.jpg,Propranolol: 0.8640,Propranolol,1
+Propranolol173.jpg,Propranolol: 0.5148,Propranolol,1
+Propranolol174.jpg,Propranolol: 0.6599,Propranolol,1
+Propranolol175.jpg,NA,Propranolol,#VALUE!
+Propranolol176.jpg,NA,Propranolol,#VALUE!
+Propranolol177.jpg,NA,Propranolol,#VALUE!
+Propranolol178.jpg,NA,Propranolol,#VALUE!
+Propranolol179.jpg,NA,Propranolol,#VALUE!
+Propranolol180.jpg,NA,Propranolol,#VALUE!
+Propranolol181.jpg,NA,Propranolol,#VALUE!
+Propranolol182.jpg,NA,Propranolol,#VALUE!
+Propranolol183.jpg,Propranolol: 0.5450,Propranolol,1
+Propranolol184.jpg,NA,Propranolol,#VALUE!
+Propranolol185.jpg,NA,Propranolol,#VALUE!
+Propranolol186.jpg,NA,Propranolol,#VALUE!
+Propranolol187.jpg,NA,Propranolol,#VALUE!
+Propranolol188.jpg,NA,Propranolol,#VALUE!
+Propranolol189.jpg,NA,Propranolol,#VALUE!
+Propranolol190.jpg,Propranolol: 0.6237,Propranolol,1
+Propranolol191.jpg,Propranolol: 0.7318,Propranolol,1
+Propranolol192.jpg,NA,Propranolol,#VALUE!
+Propranolol193.jpg,NA,Propranolol,#VALUE!
+Propranolol194.jpg,NA,Propranolol,#VALUE!
+Propranolol195.jpg,NA,Propranolol,#VALUE!
+Propranolol196.jpg,NA,Propranolol,#VALUE!
+Propranolol197.jpg,Propranolol: 0.6167,Propranolol,1
+Propranolol198.jpg,Propranolol: 0.6220,Propranolol,1
+Propranolol199.jpg,NA,Propranolol,#VALUE!
+Propranolol200.jpg,Propranolol: 0.8374,Propranolol,1
+Propranolol201.jpg,Propranolol: 0.7109,Propranolol,1
+Propranolol202.jpg,Propranolol: 0.5523,Propranolol,1
+Propranolol203.jpg,Propranolol: 0.5936,Propranolol,1
+Propranolol204.jpg,Propranolol: 0.5722,Propranolol,1
+Propranolol205.jpg,Propranolol: 0.5662,Propranolol,1
+Propranolol206.jpg,Propranolol: 0.6518,Propranolol,1
+Propranolol207.jpg,Propranolol: 0.8286,Propranolol,1
+Propranolol208.jpg,Propranolol: 0.7226,Propranolol,1
+Propranolol209.jpg,Propranolol: 0.8081,Propranolol,1
+Propranolol210.jpg,Propranolol: 0.6541,Propranolol,1
+Propranolol211.jpg,NA,Propranolol,#VALUE!
+Propranolol212.jpg,Propranolol: 0.7566,Propranolol,1
+Propranolol213.jpg,Propranolol: 0.6596,Propranolol,1
+Propranolol214.jpg,NA,Propranolol,#VALUE!
+Propranolol215.jpg,NA,Propranolol,#VALUE!
+Propranolol216.jpg,NA,Propranolol,#VALUE!
+Propranolol217.jpg,NA,Propranolol,#VALUE!
+Propranolol218.jpg,NA,Propranolol,#VALUE!
+Propranolol219.jpg,Propranolol: 0.7037,Propranolol,1
+Propranolol220.jpg,NA,Propranolol,#VALUE!
+Propranolol221.jpg,NA,Propranolol,#VALUE!
+Propranolol222.jpg,NA,Propranolol,#VALUE!
+Propranolol223.jpg,NA,Propranolol,#VALUE!
+Propranolol224.jpg,NA,Propranolol,#VALUE!
+Propranolol225.jpg,NA,Propranolol,#VALUE!
+Propranolol226.jpg,NA,Propranolol,#VALUE!
+Propranolol227.jpg,NA,Propranolol,#VALUE!
+Propranolol228.jpg,Propranolol: 0.8387,Propranolol,1
+Propranolol229.jpg,Propranolol: 0.6710,Propranolol,1
+Propranolol230.jpg,Propranolol: 0.8593,Propranolol,1
+Propranolol231.jpg,Propranolol: 0.8383,Propranolol,1
+Sporontone000.jpg,Sporontone: 0.8272,Sporontone,1
+Sporontone001.jpg,Sporontone: 0.8347,Sporontone,1
+Sporontone002.jpg,Sporontone: 0.9413,Sporontone,1
+Sporontone003.jpg,Sporontone: 0.7271,Sporontone,1
+Sporontone004.jpg,Sporontone: 0.7193,Sporontone,1
+Sporontone005.jpg,Sporontone: 0.5784,Sporontone,1
+Sporontone006.jpg,Sporontone: 0.8731,Sporontone,1
+Sporontone007.jpg,Sporontone: 0.6732,Sporontone,1
+Sporontone008.jpg,Sporontone: 0.6454,Sporontone,1
+Sporontone009.jpg,Sporontone: 0.7469,Sporontone,1
+Sporontone010.jpg,Sporontone: 0.5883,Sporontone,1
+Sporontone011.jpg,Sporontone: 0.5927,Sporontone,1
+Sporontone012.jpg,Sporontone: 0.9526,Sporontone,1
+Sporontone013.jpg,Sporontone: 0.6366,Sporontone,1
+Sporontone014.jpg,Sporontone: 0.8048,Sporontone,1
+Sporontone015.jpg,Sporontone: 0.7509,Sporontone,1
+Sporontone016.jpg,Sporontone: 0.7268,Sporontone,1
+Sporontone017.jpg,Sporontone: 0.6689,Sporontone,1
+Sporontone018.jpg,Sporontone: 0.5965,Sporontone,1
+Sporontone019.jpg,Sporontone: 0.9082,Sporontone,1
+Sporontone020.jpg,Sporontone: 0.5965,Sporontone,1
+Sporontone021.jpg,Sporontone: 0.8208,Sporontone,1
+Sporontone022.jpg,NA,Sporontone,#VALUE!
+Sporontone023.jpg,Sporontone: 0.9057,Sporontone,1
+Sporontone024.jpg,Propranolol: 0.5642,Sporontone,#VALUE!
+Sporontone025.jpg,Sporontone: 0.7830,Sporontone,1
+Sporontone026.jpg,NA,Sporontone,#VALUE!
+Sporontone027.jpg,NA,Sporontone,#VALUE!
+Sporontone028.jpg,NA,Sporontone,#VALUE!
+Sporontone029.jpg,Propranolol: 0.5350,Sporontone,#VALUE!
+Sporontone030.jpg,Propranolol: 0.6627,Sporontone,#VALUE!
+Sporontone031.jpg,Propranolol: 0.6539,Sporontone,#VALUE!
+Sporontone032.jpg,Propranolol: 0.6585,Sporontone,#VALUE!
+Sporontone033.jpg,Propranolol: 0.6539,Sporontone,#VALUE!
+Sporontone034.jpg,Sporontone: 0.8324,Sporontone,1
+Sporontone035.jpg,Sporontone: 0.6794,Sporontone,1
+Sporontone036.jpg,Sporontone: 0.7203,Sporontone,1
+Sporontone037.jpg,Sporontone: 0.7561,Sporontone,1
+Sporontone038.jpg,Sporontone: 0.7966,Sporontone,1
+Sporontone039.jpg,Propranolol: 0.6148,Sporontone,#VALUE!
+Sporontone040.jpg,NA,Sporontone,#VALUE!
+Sporontone041.jpg,Propranolol: 0.6390,Sporontone,#VALUE!
+Sporontone042.jpg,Propranolol: 0.6390,Sporontone,#VALUE!
+Sporontone043.jpg,NA,Sporontone,#VALUE!
+Sporontone044.jpg,Sporontone: 0.8070,Sporontone,1
+Sporontone045.jpg,Sporontone: 0.7939,Sporontone,1
+Sporontone046.jpg,Sporontone: 0.5502,Sporontone,1
+Sporontone047.jpg,Sporontone: 0.5154,Sporontone,1
+Sporontone048.jpg,Sporontone: 0.7232,Sporontone,1
+Sporontone049.jpg,NA,Sporontone,#VALUE!
+Sporontone050.jpg,NA,Sporontone,#VALUE!
+Sporontone051.jpg,Sporontone: 0.6136,Sporontone,1
+Sporontone052.jpg,Sporontone: 0.6802,Sporontone,1
+Sporontone053.jpg,Sporontone: 0.7637,Sporontone,1
+Sporontone054.jpg,Sporontone: 0.6408,Sporontone,1
+Sporontone055.jpg,Sporontone: 0.7143,Sporontone,1
+Sporontone056.jpg,Sporontone: 0.9212,Sporontone,1
+Sporontone057.jpg,Sporontone: 0.6957,Sporontone,1
+Sporontone058.jpg,Sporontone: 0.6261,Sporontone,1
+Sporontone059.jpg,Sporontone: 0.6532,Sporontone,1
+Sporontone060.jpg,Sporontone: 0.8567,Sporontone,1
+Sporontone061.jpg,NA,Sporontone,#VALUE!
+Sporontone062.jpg,NA,Sporontone,#VALUE!
+Sporontone063.jpg,NA,Sporontone,#VALUE!
+Sporontone064.jpg,NA,Sporontone,#VALUE!
+Sporontone065.jpg,Sporontone: 0.7101,Sporontone,1
+Sporontone066.jpg,NA,Sporontone,#VALUE!
+Sporontone067.jpg,Sporontone: 0.8222,Sporontone,1
+Sporontone068.jpg,Sporontone: 0.5513,Sporontone,1
+Sporontone069.jpg,Sporontone: 0.6143,Sporontone,1
+Sporontone070.jpg,Sporontone: 0.5754,Sporontone,1
+Sporontone071.jpg,NA,Sporontone,#VALUE!
+Sporontone072.jpg,Sporontone: 0.8396,Sporontone,1
+Sporontone073.jpg,Sporontone: 0.5542,Sporontone,1
+Sporontone074.jpg,Sporontone: 0.8779,Sporontone,1
+Sporontone075.jpg,Sporontone: 0.8202,Sporontone,1
+Sporontone076.jpg,Sporontone: 0.8168,Sporontone,1
+Sporontone077.jpg,Sporontone: 0.8496,Sporontone,1
+Sporontone078.jpg,Sporontone: 0.7266,Sporontone,1
+Sporontone079.jpg,Sporontone: 0.5546,Sporontone,1
+Tritace000.jpg,NA,Tritace,#VALUE!
+Tritace001.jpg,NA,Tritace,#VALUE!
+Tritace002.jpg,Tritace: 0.6753,Tritace,1
+Tritace003.jpg,Tritace: 0.6726,Tritace,1
+Tritace004.jpg,Tritace: 0.7198,Tritace,1
+Tritace005.jpg,Tritace: 0.7345,Tritace,1
+Tritace006.jpg,Tritace: 0.8155,Tritace,1
+Tritace007.jpg,Tritace: 0.9496,Tritace,1
+Tritace008.jpg,Tritace: 0.7037,Tritace,1
+Tritace009.jpg,Tritace: 0.5480,Tritace,1
+Tritace010.jpg,Tritace: 0.6667,Tritace,1
+Tritace011.jpg,Tritace: 0.6461,Tritace,1
+Tritace012.jpg,Tritace: 0.6769,Tritace,1
+Tritace013.jpg,Tritace: 0.6842,Tritace,1
+Tritace014.jpg,Tritace: 0.7419,Tritace,1
+Tritace015.jpg,Tritace: 0.6331,Tritace,1
+Tritace016.jpg,Tritace: 0.7436,Tritace,1
+Tritace017.jpg,Tritace: 0.5463,Tritace,1
+Tritace018.jpg,Tritace: 0.8623,Tritace,1
+Tritace019.jpg,Tritace: 0.5779,Tritace,1
+Tritace020.jpg,NA,Tritace,#VALUE!
+Tritace021.jpg,NA,Tritace,#VALUE!
+Tritace022.jpg,NA,Tritace,#VALUE!
+Tritace023.jpg,Tritace: 0.7334,Tritace,1
+Tritace024.jpg,Tritace: 0.6640,Tritace,1
+Tritace025.jpg,Tritace: 0.8616,Tritace,1
+Tritace026.jpg,NA,Tritace,#VALUE!
+Tritace027.jpg,Tritace: 0.5611,Tritace,1
+Tritace028.jpg,Tritace: 0.6330,Tritace,1
+Tritace029.jpg,Tritace: 0.6921,Tritace,1
+Tritace030.jpg,Tritace: 0.5772,Tritace,1
+Tritace031.jpg,Tritace: 0.8196,Tritace,1
+Tritace032.jpg,Tritace: 0.7046,Tritace,1
+Tritace033.jpg,NA,Tritace,#VALUE!
+Tritace034.jpg,Tritace: 0.8092,Tritace,1
+Tritace035.jpg,Tritace: 0.7222,Tritace,1
+Tritace036.jpg,Tritace: 0.8428,Tritace,1
+Tritace037.jpg,Tritace: 0.7290,Tritace,1
+Tritace038.jpg,Tritace: 0.8455,Tritace,1
+Tritace039.jpg,Tritace: 0.8591,Tritace,1
+Tritace040.jpg,Tritace: 0.8404,Tritace,1
+Tritace041.jpg,Tritace: 0.7826,Tritace,1
+Tritace042.jpg,Tritace: 0.9388,Tritace,1
+Tritace043.jpg,Tritace: 0.9505,Tritace,1
+Tritace044.jpg,NA,Tritace,#VALUE!
+Tritace045.jpg,Tritace: 0.9363,Tritace,1
+Tritace046.jpg,Tritace: 0.9505,Tritace,1
+Tritace047.jpg,Tritace: 0.8100,Tritace,1
+Tritace048.jpg,Tritace: 0.5541,Tritace,1
+Tritace049.jpg,Tritace: 0.5893,Tritace,1
+Tritace050.jpg,Tritace: 0.7295,Tritace,1
+Tritace051.jpg,NA,Tritace,#VALUE!
+Tritace052.jpg,Tritace: 0.5132,Tritace,1
+Tritace053.jpg,NA,Tritace,#VALUE!
+Tritace054.jpg,Tritace: 0.5404,Tritace,1
+Tritace055.jpg,Tritace: 0.7380,Tritace,1
+Tritace056.jpg,NA,Tritace,#VALUE!
+Tritace057.jpg,Tritace: 0.5499,Tritace,1
+Tritace058.jpg,Tritace: 0.7076,Tritace,1
+Tritace059.jpg,Tritace: 0.6491,Tritace,1
+Tritace060.jpg,Tritace: 0.5722,Tritace,1
+Tritace061.jpg,NA,Tritace,#VALUE!
+Tritace062.jpg,Tritace: 0.5403,Tritace,1
+Tritace063.jpg,Tritace: 0.6345,Tritace,1
+Tritace064.jpg,Tritace: 0.7424,Tritace,1
+Tritace065.jpg,Tritace: 0.6753,Tritace,1
+Tritace066.jpg,Tritace: 0.5575,Tritace,1
+Tritace067.jpg,Tritace: 0.7631,Tritace,1
+Tritace068.jpg,Tritace: 0.6660,Tritace,1
+Tritace069.jpg,NA,Tritace,#VALUE!
+Tritace070.jpg,Tritace: 0.7424,Tritace,1
+Tritace071.jpg,Tritace: 0.6915,Tritace,1
+Tritace072.jpg,Tritace: 0.6873,Tritace,1
+Tritace073.jpg,Tritace: 0.7818,Tritace,1
+Tritace074.jpg,Tritace: 0.5368,Tritace,1
+Tritace075.jpg,Tritace: 0.6874,Tritace,1
+Tritace076.jpg,Tritace: 0.6936,Tritace,1
+Tritace077.jpg,NA,Tritace,#VALUE!
+Tritace078.jpg,Tritace: 0.7509,Tritace,1
+Tritace079.jpg,Tritace: 0.5977,Tritace,1
+Tritace080.jpg,NA,Tritace,#VALUE!
+Tritace081.jpg,Tritace: 0.6363,Tritace,1
+Tritace082.jpg,Tritace: 0.7476,Tritace,1
+Tritace083.jpg,Tritace: 0.5745,Tritace,1
+Tritace084.jpg,Tritace: 0.7111,Tritace,1
+Tritace085.jpg,Tritace: 0.7203,Tritace,1
+Tritace086.jpg,Tritace: 0.6590,Tritace,1
+Tritace087.jpg,NA,Tritace,#VALUE!
+Tritace088.jpg,Tritace: 0.5216,Tritace,1
+Tritace089.jpg,Tritace: 0.7166,Tritace,1
+Tritace090.jpg,Tritace: 0.5609,Tritace,1
+Tritace091.jpg,Tritace: 0.9614,Tritace,1
+Tritace092.jpg,Tritace: 0.8065,Tritace,1
+Tritace093.jpg,Tritace: 0.8238,Tritace,1
+Tritace094.jpg,Tritace: 0.8704,Tritace,1
+Tritace095.jpg,Tritace: 0.5141,Tritace,1
+Tritace096.jpg,Tritace: 0.6685,Tritace,1
+Tritace097.jpg,Tritace: 0.6679,Tritace,1
+Tritace098.jpg,Tritace: 0.6105,Tritace,1
+Tritace099.jpg,Tritace: 0.6151,Tritace,1
+Tritace100.jpg,NA,Tritace,#VALUE!
+Tritace101.jpg,Tritace: 0.5459,Tritace,1
+Tritace102.jpg,NA,Tritace,#VALUE!
+Tritace103.jpg,NA,Tritace,#VALUE!
+Tritace104.jpg,Tritace: 0.7937,Tritace,1
+Weson000.jpg,NA,Weson,#VALUE!
+Weson001.jpg,Weson: 0.8025,Weson,1
+Weson002.jpg,NA,Weson,#VALUE!
+Weson003.jpg,NA,Weson,#VALUE!
+Weson004.jpg,NA,Weson,#VALUE!
+Weson005.jpg,NA,Weson,#VALUE!
+Weson006.jpg,NA,Weson,#VALUE!
+Weson007.jpg,NA,Weson,#VALUE!
+Weson008.jpg,NA,Weson,#VALUE!
+Weson009.jpg,Weson: 0.8067,Weson,1
+Weson010.jpg,Weson: 0.9090,Weson,1
+Weson011.jpg,Weson: 0.8115,Weson,1
+Weson012.jpg,Weson: 0.8226,Weson,1
+Weson013.jpg,NA,Weson,#VALUE!
+Weson014.jpg,NA,Weson,#VALUE!

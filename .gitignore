@@ -1,0 +1,6 @@
+/migrations
+/__pycache__
+/flask_backend/__pycache__
+/flask_backend/medicine_proc/__pycache__
+/medicineApp-venv
+/flask_backend/database.db
