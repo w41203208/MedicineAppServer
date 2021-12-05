@@ -25,8 +25,6 @@ from .medicine_proc.medicine import MedicineApp
 from .models import MUser
 from . import db
 
-import cv2
-cap = cv2.VideoCapture(1)
 
 user = Blueprint('user', __name__)
 
@@ -61,13 +59,11 @@ def sign_up():
             }), 201
 
 @user.route('/login', methods=['GET', 'POST'])
-@cross_origin()
 def login():
     if request.method == 'POST':
         data = json.loads(request.get_data())
         number = data['userName']
         password = data['password']
-
         user = MUser.query.filter_by(number=number).first()
 
         if user:
@@ -88,23 +84,16 @@ def login():
                     'access_token': access_token,
                     'message': 'Logged in successfully!',
                 }), 200)
+                resp.set_cookie(key="refresh_token", value=refresh_token, expires=time.time()+20*60*60, secure=True, samesite="None")
 
-                resp.set_cookie(key="refresh_token", value=refresh_token, expires=time.time()+20*60)
-                #set_refresh_cookies(resp, refresh_token)
-
-                return resp
             else:
-
                 resp = make_response(jsonify({
                     'message': 'Incorrect password, try again.',
                     'auth' : False,
                     'refresh_token': '',
                     'access_token': '',
                 }), 401)
-
-                return resp
         else:
-
             resp = make_response(jsonify({
                 'message': 'User does not exist.',
                 'auth' : False,
@@ -112,7 +101,9 @@ def login():
                 'access_token': '',
             }), 404)
 
-            return resp
+
+    resp.headers['X-Content-Type-Options'] = 'nosniff'
+    return resp
 
 
 @user.route('/auth_user', methods=['GET'])
@@ -122,14 +113,17 @@ def auth_user():
         current_user = get_jwt_identity()
 
         if current_user:
-            return jsonify({
+            resp = make_response(jsonify({
                 'user_name': current_user,
                 'message': 'token is valid!'
-            }), 200
+            }), 200)
         else:
-            return jsonify({
+            resp = make_response(jsonify({
                 'error_message': 'token is invalid!'
-            }), 401
+            }), 401)
+
+    resp.headers['X-Content-Type-Options'] = 'nosniff'
+    return resp
 
 
 @user.route('/delete/:id', methods=['POST'])
@@ -140,10 +134,12 @@ def delete_user():
 
 
 @user.route('/refresh', methods=['POST'])
+@cross_origin()
 def refresh():
     decode_toke = decode_token(request.cookies['refresh_token'])
 
     current_user = decode_toke['sub']
+    print(decode_toke)
 
     if int(time.time()) < decode_toke['exp'] :
         ret = jsonify({

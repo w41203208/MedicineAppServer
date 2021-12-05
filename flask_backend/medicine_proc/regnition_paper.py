@@ -6,7 +6,7 @@ class RegPre():
         self.data = dict()
 
     def preRecognize(self):
-        time.sleep(7)
+        time.sleep(1)
 
         self.data ={
             '0' : {
