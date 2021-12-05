@@ -12,13 +12,10 @@ def ocr(img):
 
     res=reader.readtext(img)
 
-    paper = []
-    
+    paper = ''
     for i in res:
-        # print(i)
+        print(i)
         word = i[1]
-        if i[2] > 0.5:
-            paper.append(word)
-        
+        paper = paper + word
 
     return paper

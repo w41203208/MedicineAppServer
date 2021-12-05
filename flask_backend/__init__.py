@@ -29,10 +29,9 @@ def create_app(test_config=None):
 
 
     ####### token ###########
-    app.config['JWT_ACCESS_TOKEN_EXPIRES'] = timedelta(minutes=1)#1
-    app.config['JWT_REFRESH_TOKEN_EXPIRES'] = timedelta(minutes=20)#20
+    app.config['JWT_ACCESS_TOKEN_EXPIRES'] = timedelta(minutes=60)#1
+    app.config['JWT_REFRESH_TOKEN_EXPIRES'] = timedelta(minutes=60)#20
     app.config["JWT_TOKEN_LOCATION"] = ["headers", "cookies"]
-
 
     ######## Register Database ########
     app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///database.db'
@@ -46,7 +45,7 @@ def create_app(test_config=None):
     jwt.init_app(app)
     migrate = Migrate(app, db)
     db.create_all(app=app)
-    CORS(app, supports_credentials=True, origins = ['http://localhost:3000'])
+    CORS(app)
 
     ######## Register websocket ########
     socketio.init_app(app, async_mode=None, cors_allowed_origins='*')

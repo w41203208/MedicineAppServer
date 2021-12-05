@@ -63,56 +63,43 @@ def getDrug(img):
         result = contours[contours_index]
     else:
         result = third[index]
+    (x, y, w, h) = cv2.boundingRect(result)
+    # cv2.rectangle(img,(x,y),(x+w, y+h),(255,0,0),2, cv2.LINE_AA)
 
-    rect = cv2.minAreaRect(result) 
+    img_result = img[y:y+h,x:x+w]
+    img_final = img_result.copy()
 
+    def getMed():
+        img_med = img_final[220:375]
+        # 
+        return img_med
 
-
-    width = int(rect[1][0])
-    height = int(rect[1][1])
-    angle = rect[2]
-    print(angle)
-
-    if width < height:  #計算角度，爲後續做準備
-        angle = angle - 90
-    print(angle)
-
-    src_pts = cv2.boxPoints(rect)
-
-
-    dst_pts = np.array([[0, height],
-                        [0, 0],
-                        [width, 0],
-                        [width, height]], dtype="float32")
-    M = cv2.getPerspectiveTransform(src_pts, dst_pts)
-    warped = cv2.warpPerspective(img, M, (width, height))
-
-    if angle<=-90:  #對-90度以上圖片的豎直結果轉正
-        warped = cv2.transpose(warped)
-        warped = cv2.flip(warped, 0)  # 逆時針轉90度，如果想順時針，則0改爲1
-        # warped=warped.transpose
-
-    height = warped.shape[0]
-    # 定義圖片的寬度
-    width = warped.shape[1]
-    # 定義圖片的中心
-    center = (int(height/2), int(width/2))
-
-    # 指定旋轉角度
-    angle = 270
-
-    # 指定縮放比例
-    scale = 1.0
+    def geteffect():
+        img_effect = img_final[205:280]
+        cv2.imshow("img_effect", img_effect)
 
 
-    # 旋轉
-    trans = cv2.getRotationMatrix2D(center, angle, scale)
-    image2 = cv2.warpAffine(warped, trans, (width, height))
+    def getWord():
+        hsv_img = cv2.cvtColor(img_final, cv2.COLOR_BGR2HSV)
+        lower_green = np.array([50, 15, 15]) 
+        upper_green = np.array([70, 255, 255])
+        green_mask = cv2.inRange(hsv_img, lower_green, upper_green)
+        five, hierarchy = cv2.findContours(green_mask, cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)
 
-    # 儲存圖片
-    cv2.imwrite('image2.jpg', image2)
+        for i in range(0, len(five)):
 
-    return image2
+            if cv2.contourArea(five[i]) > 150 :
+
+                (x, y, w, h) = cv2.boundingRect(five[i])
+                cv2.rectangle(img_final,(x,y),(x+w, y+h),(255,0,0),2, cv2.LINE_AA)
+
+    scale_percent = 60 
+    width = int(img_final.shape[1] * scale_percent / 100)
+    height = int(img_final.shape[0] * scale_percent / 100)
+    dim = (width, height)
+    img = cv2.resize(img_final, dim, interpolation = cv2.INTER_AREA)
+    return getMed()
+
 
 
 
